@@ -33,7 +33,8 @@ At RaízesVivas, we value inclusivity as the core of our app. We are committed t
 # Methodology
 Upon analysis of Brazil's inclusive internet index in comparison to that of the United States, certain findings have been noted.
 
-![iamge_1](./images/Picture6.jpg)    ![iamge_1](./images/Picture7.jpg) 
+![iamge_1](./images/Picture6.jpg)    
+![iamge_1](./images/Picture7.png) 
 
 The clustering analysis shows that Brazil's average literacy rate is 93.2%. This indicates room for improvement in literacy rates within the country. Low literacy rates hinder educational development and limit individuals' full participation in society.
 A comparison of education levels between Brazil and the United States shows a significant difference. On average, Brazil has 7.8 years of schooling, while the United States has 13.4 years. It is evident that there is a need to improve education in Brazil to address this gap and provide better opportunities for its citizens.
