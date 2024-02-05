@@ -1,5 +1,5 @@
 # RaízesVivas App 
-“an initiative aimed at enriching education and preserving Brazilian culture through technology”
+## Empowering Minds, Unlocking potential 
 
 Access App: https://www.figma.com/proto/3PsgekG7kOrnXJAJFV9Ii7/RaizeViva-App?type=design&node-id=2-2&t=HkJmYK2ZTRkukLVz-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2&mode=design
 
