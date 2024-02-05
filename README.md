@@ -1,6 +1,9 @@
 # RaízesVivas App 
 “an initiative aimed at enriching education and preserving Brazilian culture through technology”
 
+Access App: https://www.figma.com/file/3PsgekG7kOrnXJAJFV9Ii7/RaizeViva-App?type=design&node-id=0%3A1&mode=design&t=3FVgdYLtknrUVwqz-1
+Design Tool: Figma
+
 # Executive Summary
 The RaízesVivas app is an innovative mobile platform designed to showcase Brazilian food, art, and culture while addressing critical social challenges such as the educational divide and poverty in Brazil. This report provides a thorough overview of the app's features, methodologies, monetization strategies, collaboration and partnerships, budget, and funding request from the United Nations.
 
