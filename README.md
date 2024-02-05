@@ -1,5 +1,5 @@
 # RaízesVivas App 
-## Empowering Minds, Unlocking potential 
+## Empowering minds, Unlocking potential 
 
 Access App: https://www.figma.com/proto/3PsgekG7kOrnXJAJFV9Ii7/RaizeViva-App?type=design&node-id=2-2&t=HkJmYK2ZTRkukLVz-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2&mode=design
 
@@ -110,26 +110,37 @@ The following breakdown shows how revenue generated from the above monetization 
 This report gives a summary of the app's collaborative efforts, important partnerships formed, and the advantages gained from these collaborations.
 ## 1.	Collaboration Initiatives:
 RaízesVivas participates in multiple collaboration initiatives to increase its impact. Some of these initiatives are:
+
 •	Sponsorship Programs: The app provides sponsorship opportunities for organizations and brands that share our mission. By partnering with us, sponsors can support certain app features, events, or educational programs and gain visibility and association with RaízesVivas. (i.e., corporate sponsorship, Artist collaboration and cultural institutions and Museums)
+
 •	Content Partnerships: Collaborating with content creators, influencers, artists, and experts in Brazilian culture, cuisine, and art, RaízesVivas enriches its content offerings. These partnerships bring diverse perspectives, expertise, and compelling storytelling to the app, attracting and engaging a wider audience.
+
 •	Influencer Collaborations: Leveraging the power of influencers, RaízesVivas partners both influential and everyday users of the app who share the same passion for Brazilian culture. These collaborations involve influencers promoting the app, sharing content, and encouraging their audience to engage with RaízesVivas.
 
 ## 2.	Key Partnerships:
 RaízesVivas has joined forces with several stakeholders to increase its impact and expand its reach. These strategic partnerships consist of:
+
 •	NGOs and Non-profit Organizations: Collaborating with reputable NGOs and non-profit organizations working in education, poverty alleviation, and cultural preservation, RaízesVivas leverages their expertise and networks to drive targeted initiatives. (i.e., Instituto Escolhas, Gastromotiva and ActionAid Brasil)
+
 •	Cultural Institutions: RaízesVivas partners with museums, galleries, and cultural institutions to exhibit and promote Brazilian art, exhibitions, and cultural events. These collaborations offer chances for cross-promotion, knowledge sharing, and curated content access to app users.
+
 •	Government Agencies and Educational Institutions: RaízesVivas collaborates and partners with government agencies and educational institutions to support educational programs and initiatives. By forming partnerships, the app can better align with existing educational efforts and maximize its impact in bridging the gap.
 
 ## 3.	Benefits of Collaboration:
 RaízesVivas team and its partners can benefit greatly from collaboration and partnerships, this benefit includes:
+
 •	RaízesVivas can reach new audiences and grow its user base by collaborating with partners and utilizing their networks and platforms.
+
 •	Collaborating with content creators, influencers, and organizations adds a wider range of perspectives, skills, and specialized knowledge, which enhances the app's content.
+
 •	Collaborations provide access to resources, including funding, content, technology, and networks, that support the app's growth and development.
+
 •	Partnerships with reputable organizations and influencers enhance RaízesVivas' credibility, fostering trust among users and stakeholders.
 
 # Budget and Funding Request
 
 This report summarizes the project's budget, funding needs, and the app's potential positive impact in line with the UN's Sustainable Development Goals (SDGs).
+
 1.	Project Budget:
 The RaízesVivas app project requires a comprehensive budget to cover various aspects of development, implementation, and ongoing operations. The budget includes the following key components:
 
