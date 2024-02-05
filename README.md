@@ -36,6 +36,7 @@ Upon analysis of Brazil's inclusive internet index in comparison to that of the 
 
 ![iamge_1](./images/Picture6.jpg)    
 ![iamge_1](./images/Picture7.png) 
+
 Data Source: https://impact.economist.com/projects/inclusive-internet-index/ 
 
 The clustering analysis shows that Brazil's average literacy rate is 93.2%. This indicates room for improvement in literacy rates within the country. Low literacy rates hinder educational development and limit individuals' full participation in society.
