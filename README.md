@@ -16,3 +16,17 @@ Improving education is crucial for Brazil's sustained economic growth and progre
 RaízesVivas is an innovative solution that harnesses cutting-edge technologies such as big data and industry 4.0 to drive a positive and sustainable impact on society.
 
 ![iamge_1](./images/Picture1.jpg)   ![iamge_1](./images/Picture2.png)   ![iamge_1](./images/Picture3.jpg)  ![iamge_1](./images/Picture4.jpg)  ![iamge_1](./images/Picture5.jpg)
+
+
+
+# Our Goal
+Discover the essence of Brazil through our app's collection of visual arts, crafts, and culinary delights. RaízesVivas showcases a diverse range of cultural expressions, including intricate paintings, sculptures, indigenous crafts, and mouth-watering culinary creations. Our platform offers artists, artisans, and chefs an opportunity to showcase their talents and contribute to the preservation and promotion of Brazil's rich cultural heritage.
+RaízesVivas is not only an artistic platform, but it also strives to bring about positive change. We are committed to bridging the educational divide and reducing poverty. To achieve this, we utilize the revenue generated from our platform to support initiatives that make a difference. Through partnerships with reputable organizations and transparent reporting, we ensure that user contributions directly support educational programs and poverty alleviation efforts.
+
+At RaízesVivas, we value inclusivity as the core of our app. We are committed to making it accessible to everyone by providing language options, accessibility features, and seamless integration with popular social media platforms. To expand our reach and impact, we collaborate with influencers to promote our message to a diverse and engaged audience who share our passion for Brazilian culture.
+
+
+# Methodology
+Upon analysis of Brazil's inclusive internet index in comparison to that of the United States, certain findings have been noted.
+![iamge_1](./images/Picture6.jpg)  ![iamge_1](./images/Picture7.jpg)
+
