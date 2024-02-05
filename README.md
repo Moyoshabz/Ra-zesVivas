@@ -1,4 +1,5 @@
 # RaízesVivas App 
+![iamge_1](./images/Picture9.png)
 ## Empowering minds, Unlocking potential 
 
 Access App: https://www.figma.com/proto/3PsgekG7kOrnXJAJFV9Ii7/RaizeViva-App?type=design&node-id=2-2&t=HkJmYK2ZTRkukLVz-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2&mode=design
@@ -35,7 +36,6 @@ Upon analysis of Brazil's inclusive internet index in comparison to that of the 
 
 ![iamge_1](./images/Picture6.jpg)    
 ![iamge_1](./images/Picture7.png) 
-
 Data Source: https://impact.economist.com/projects/inclusive-internet-index/ 
 
 The clustering analysis shows that Brazil's average literacy rate is 93.2%. This indicates room for improvement in literacy rates within the country. Low literacy rates hinder educational development and limit individuals' full participation in society.
