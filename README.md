@@ -65,28 +65,44 @@ The app prioritizes user privacy and security by implementing strong measures to
 
 # Impact Measurement and Reporting
 
-## 1.	Methodologies for Impact Measurement:
+## 1.	Methodologies for Impact Measurement: 
 At RaízesVivas, we utilize both qualitative and quantitative methods to assess our impact. This encompasses:
 
-### •	Surveys and Feedback: We gather feedback from users through surveys to understand their experiences and perception of the app's impact on cultural understanding and support for education. We send surveys after donations or purchases are made.
+### •	Surveys and Feedback:
 
-### •	User Engagement Metrics: Key metrics such as active users, session duration, and frequency of app usage are tracked to assess user engagement and the reach of the app's content.
+We gather feedback from users through surveys to understand their experiences and perception of the app's impact on cultural understanding and support for education. We send surveys after donations or purchases are made.
 
-### •	Donation Tracking: For the donation section, specific metrics are utilized to track the amount of funds raised, number of various projects and initiatives by RaízesVivas, dishes served at solidarity dinners and schools impacted by donations.
+### •	User Engagement Metrics: 
 
-### •	Social Media Analytics: The app uses social media platforms to determine how many people are interacting with shared content, including likes, comments, shares, and follower growth. This helps to evaluate the app's visibility and impact.
+Key metrics such as active users, session duration, and frequency of app usage are tracked to assess user engagement and the reach of the app's content.
+
+### •	Donation Tracking: 
+
+For the donation section, specific metrics are utilized to track the amount of funds raised, number of various projects and initiatives by RaízesVivas, dishes served at solidarity dinners and schools impacted by donations.
+
+### •	Social Media Analytics: 
+
+The app uses social media platforms to determine how many people are interacting with shared content, including likes, comments, shares, and follower growth. This helps to evaluate the app's visibility and impact.
 
 ## 2.	Reporting Impact:
 
 RaízesVivas is committed to transparently reporting its impact to stakeholders, including users, partners, and donors. This is achieved through:
 
-### •	Regular Impact Updates: Periodic reports and updates are published on the app's website, social media channels, and through email newsletters.
+### •	Regular Impact Updates: 
 
-### •	Data Visualization: Impact data is visually presented through infographics, charts, and graphs, allowing stakeholders to easily grasp the app's achievements and progress over time.
+Periodic reports and updates are published on the app's website, social media channels, and through email newsletters.
 
-### •	Success Stories and Testimonials: RaízesVivas shares inspiring stories and testimonials from people and communities who have benefitted from their initiatives. These personal narratives provide a human touch and show the real-world impact of the app.
+### •	Data Visualization: 
 
-### •	Collaboration with NGOs: Having clear partnerships and communication channels is important to RaízesVivas app, the app ensure that donated funds are used transparently and with accountability.
+Impact data is visually presented through infographics, charts, and graphs, allowing stakeholders to easily grasp the app's achievements and progress over time.
+
+### •	Success Stories and Testimonials: 
+
+RaízesVivas shares inspiring stories and testimonials from people and communities who have benefitted from their initiatives. These personal narratives provide a human touch and show the real-world impact of the app.
+
+### •	Collaboration with NGOs: 
+
+Having clear partnerships and communication channels is important to RaízesVivas app, the app ensure that donated funds are used transparently and with accountability.
 
 
 # Monetization and Fund Allocation
@@ -112,20 +128,32 @@ This report gives a summary of the app's collaborative efforts, important partne
 ## 1.	Collaboration Initiatives:
 RaízesVivas participates in multiple collaboration initiatives to increase its impact. Some of these initiatives are:
 
-### •	Sponsorship Programs: The app provides sponsorship opportunities for organizations and brands that share our mission. By partnering with us, sponsors can support certain app features, events, or educational programs and gain visibility and association with RaízesVivas. (i.e., corporate sponsorship, Artist collaboration and cultural institutions and Museums)
+### •	Sponsorship Programs: 
 
-### •	Content Partnerships: Collaborating with content creators, influencers, artists, and experts in Brazilian culture, cuisine, and art, RaízesVivas enriches its content offerings. These partnerships bring diverse perspectives, expertise, and compelling storytelling to the app, attracting and engaging a wider audience.
+The app provides sponsorship opportunities for organizations and brands that share our mission. By partnering with us, sponsors can support certain app features, events, or educational programs and gain visibility and association with RaízesVivas. (i.e., corporate sponsorship, Artist collaboration and cultural institutions and Museums)
 
-### •	Influencer Collaborations: Leveraging the power of influencers, RaízesVivas partners both influential and everyday users of the app who share the same passion for Brazilian culture. These collaborations involve influencers promoting the app, sharing content, and encouraging their audience to engage with RaízesVivas.
+### •	Content Partnerships: 
+
+Collaborating with content creators, influencers, artists, and experts in Brazilian culture, cuisine, and art, RaízesVivas enriches its content offerings. These partnerships bring diverse perspectives, expertise, and compelling storytelling to the app, attracting and engaging a wider audience.
+
+### •	Influencer Collaborations: 
+
+Leveraging the power of influencers, RaízesVivas partners both influential and everyday users of the app who share the same passion for Brazilian culture. These collaborations involve influencers promoting the app, sharing content, and encouraging their audience to engage with RaízesVivas.
 
 ## 2.	Key Partnerships:
 RaízesVivas has joined forces with several stakeholders to increase its impact and expand its reach. These strategic partnerships consist of:
 
-### •	NGOs and Non-profit Organizations: Collaborating with reputable NGOs and non-profit organizations working in education, poverty alleviation, and cultural preservation, RaízesVivas leverages their expertise and networks to drive targeted initiatives. (i.e., Instituto Escolhas, Gastromotiva and ActionAid Brasil)
+### •	NGOs and Non-profit Organizations: 
 
-### •	Cultural Institutions: RaízesVivas partners with museums, galleries, and cultural institutions to exhibit and promote Brazilian art, exhibitions, and cultural events. These collaborations offer chances for cross-promotion, knowledge sharing, and curated content access to app users.
+Collaborating with reputable NGOs and non-profit organizations working in education, poverty alleviation, and cultural preservation, RaízesVivas leverages their expertise and networks to drive targeted initiatives. (i.e., Instituto Escolhas, Gastromotiva and ActionAid Brasil)
 
-### •	Government Agencies and Educational Institutions: RaízesVivas collaborates and partners with government agencies and educational institutions to support educational programs and initiatives. By forming partnerships, the app can better align with existing educational efforts and maximize its impact in bridging the gap.
+### •	Cultural Institutions: 
+
+RaízesVivas partners with museums, galleries, and cultural institutions to exhibit and promote Brazilian art, exhibitions, and cultural events. These collaborations offer chances for cross-promotion, knowledge sharing, and curated content access to app users.
+
+### •	Government Agencies and Educational Institutions: 
+
+RaízesVivas collaborates and partners with government agencies and educational institutions to support educational programs and initiatives. By forming partnerships, the app can better align with existing educational efforts and maximize its impact in bridging the gap.
 
 ## 3.	Benefits of Collaboration:
 RaízesVivas team and its partners can benefit greatly from collaboration and partnerships, this benefit includes:
