@@ -67,17 +67,25 @@ The app prioritizes user privacy and security by implementing strong measures to
 
 ## 1.	Methodologies for Impact Measurement:
 At RaízesVivas, we utilize both qualitative and quantitative methods to assess our impact. This encompasses:
+
 •	Surveys and Feedback: We gather feedback from users through surveys to understand their experiences and perception of the app's impact on cultural understanding and support for education. We send surveys after donations or purchases are made.
+
 •	User Engagement Metrics: Key metrics such as active users, session duration, and frequency of app usage are tracked to assess user engagement and the reach of the app's content.
+
 •	Donation Tracking: For the donation section, specific metrics are utilized to track the amount of funds raised, number of various projects and initiatives by RaízesVivas, dishes served at solidarity dinners and schools impacted by donations.
+
 •	Social Media Analytics: The app uses social media platforms to determine how many people are interacting with shared content, including likes, comments, shares, and follower growth. This helps to evaluate the app's visibility and impact.
 
 ## 2.	Reporting Impact:
 
 RaízesVivas is committed to transparently reporting its impact to stakeholders, including users, partners, and donors. This is achieved through:
+
 •	Regular Impact Updates: Periodic reports and updates are published on the app's website, social media channels, and through email newsletters.
+
 •	Data Visualization: Impact data is visually presented through infographics, charts, and graphs, allowing stakeholders to easily grasp the app's achievements and progress over time.
+
 •	Success Stories and Testimonials: RaízesVivas shares inspiring stories and testimonials from people and communities who have benefitted from their initiatives. These personal narratives provide a human touch and show the real-world impact of the app.
+
 •	Collaboration with NGOs: Having clear partnerships and communication channels is important to RaízesVivas app, the app ensure that donated funds are used transparently and with accountability.
 
 
