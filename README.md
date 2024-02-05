@@ -15,4 +15,4 @@ Collaborations and partnerships play a vital role in the app's success. RaízesV
 Improving education is crucial for Brazil's sustained economic growth and progress. Despite the increase in access to education, there is still so much room for improvement. 
 RaízesVivas is an innovative solution that harnesses cutting-edge technologies such as big data and industry 4.0 to drive a positive and sustainable impact on society.
 
-![iamge_1](./images/picture1.jpg)
+![iamge_1](./Ra-zesVivas/Picture1.jpg)
