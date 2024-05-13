@@ -1,3 +1,4 @@
+# The app also raises awareness about the educational divide and poverty in Brazil, fostering a sense of responsibility and solidarity among its users.
 # RaízesVivas App 
 ![iamge_1](./images/Picture9.png)
 ## Empowering minds, Unlocking potential 
