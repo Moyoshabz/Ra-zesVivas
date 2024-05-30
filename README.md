@@ -1,4 +1,4 @@
-# The app also raises awareness about the educational divide and poverty in Brazil, fostering a sense of responsibility and solidarity among its users.
+
 # RaízesVivas App 
 
 ## Figma Prototype
